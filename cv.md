@@ -8,9 +8,9 @@
 * phone: +375296887967
 * skype: koltunsergey
 
-Current skills: HTML5, CSS3, SASS, GIT
+**Current skills:** HTML5, CSS3, SASS, GIT
 
-Curses: Разработка веб-сайтов с использованием HTML, CSS и JavaScript
+**Curses:** Разработка веб-сайтов с использованием HTML, CSS и JavaScript
 
 My latest project - [SNDSNG](https://koltunsergey.github.io/)
 
